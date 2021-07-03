@@ -1,8 +1,7 @@
-# Date created
- 07-03-2021
 
-Data Analytics on Bikeshare Data using Python
 
+Project : Data Analytics on Bikeshare Data using Python				
+Dated   : 07-03-2021
 
 Project Overview:
 A simple analytical project on bikeshare dataset using Python programming language and Pandas library.
